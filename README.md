@@ -1,13 +1,13 @@
-👨‍💻 Hi, I'm Prince — a MERN Stack Developer & Competitive Programmer.
-I love building scalable apps and solving algorithmic problems.
+👨‍💻 Hi, I'm Prince — a Computer Science student with strong problem-solving skills and an interest in data-driven technologies.
 
-🔹 MERN Stack | React • Node.js • Express • MongoDB
-🔹 Languages | C++ • JavaScript • Python • Java
-🔹 Interests | System Design • Databases • Software Engineering
+🔹 Skills | Python • NumPy • Pandas • Scikit-learn • C++
+🔹 Experience | Machine Learning • Data Analysis • Full-Stack Development
+🔹 Interests | Data Science • Analytics • Problem Solving
 
-🛠 Current projects:
+🛠 Projects:
 • FoxType — typing speed test web app inspired by MonkeyType
-• SDLC Quality Dashboard — MERN-based QA analytics platform
+• House Price Prediction — regression-based ML model
+• Customer Segmentation — clustering using KMeans
 
 🏆 Codeforces Specialist | LeetCode Knight | ACM CP Lead
 
