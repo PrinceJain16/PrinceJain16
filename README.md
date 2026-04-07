@@ -1,16 +1,16 @@
-👨‍💻 Hi, I'm Prince — a Computer Science student with strong problem-solving skills and an interest in data-driven technologies.
+👨‍💻 Hi, I'm Prince — a Computer Science student at LNMIIT with strong problem-solving skills (1000+ DSA problems solved) and hands-on experience in full-stack development and machine learning.
 
-🔹 Skills | Python • NumPy • Pandas • Scikit-learn • C++
-🔹 Experience | Machine Learning • Data Analysis • Full-Stack Development
-🔹 Interests | Data Science • Analytics • Problem Solving
+🔹 Skills | C++ • Python • JavaScript • React • Node.js • MongoDB • NumPy • Pandas • TensorFlow  
+🔹 Experience | Full-Stack Development (MERN) • Machine Learning • Data Analysis  
+🔹 Interests | Software Development • Data Science • Competitive Programming  
 
 🛠 Projects:
-• FoxType — typing speed test web app inspired by MonkeyType
-• House Price Prediction — regression-based ML model
-• Customer Segmentation — clustering using KMeans
+• Software Quality Assurance Dashboard — full-stack MERN app for tracking software quality metrics across SDLC  
+• Speech Emotion Recognition — real-time ML model for classifying emotions from speech (~76% accuracy)  
+• FoxType — interactive typing speed test platform with real-time performance tracking  
 
-🏆 Codeforces Specialist | LeetCode Knight | ACM CP Lead
+🏆 LeetCode (Knight) • Codeforces (Specialist) • ACM CP Lead  
 
 📩 Reach me:
-LinkedIn: https://www.linkedin.com/in/princejain06
+LinkedIn: https://www.linkedin.com/in/princejain06  
 Email: jain.prince2023@gmail.com
